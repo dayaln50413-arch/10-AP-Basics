@@ -10,4 +10,4 @@ num_string ="5"
 # Constants are uppercase
 PI = 3.14
 
-a_01_my_num = 7  
+a_01_my_num = 7
